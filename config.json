@@ -4,12 +4,15 @@
   "name": "Renato Siqueira",
   "userimg": "https://avatars1.githubusercontent.com/u/30542215?v=4",
   "sort": "created",
-  "order": "asc",
-  "includeFork": false,
-  "theme": "light.css",
+  "order": "desc",
+  "includeFork": true,
+  "theme": "dark.css",
   "types": [
-   "all"
+   "owner"
   ],
-  "linkedin": "renatosiqueira"
+  "twitter": null,
+  "linkedin": "renatosiqueira",
+  "medium": null,
+  "dribbble": null
  }
 ]
